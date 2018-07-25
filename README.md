@@ -1,6 +1,6 @@
 # login_stateful
 
-A new Flutter project.
+Simple login form using StatefulWidget for state management in Flutter.
 
 ## Getting Started
 
